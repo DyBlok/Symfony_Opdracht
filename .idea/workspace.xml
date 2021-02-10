@@ -11,7 +11,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3a6f6297-94b4-4cd9-a14a-99f0c5bb4110" name="Default Changelist" comment="+">
+      <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/base.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html.twig" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -151,7 +153,9 @@
       <option name="presentableId" value="Default" />
       <updated>1612361407441</updated>
       <workItem from="1612361408615" duration="1068000" />
-      <workItem from="1612362619984" duration="324000" />
+      <workItem from="1612362619984" duration="617000" />
+      <workItem from="1612963925397" duration="1083000" />
+      <workItem from="1612967673892" duration="1221000" />
     </task>
     <task id="LOCAL-00001" summary="+">
       <created>1612361889644</created>
@@ -167,7 +171,14 @@
       <option name="project" value="LOCAL" />
       <updated>1612361964905</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="+">
+      <created>1612363003904</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1612363003904</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -190,9 +201,13 @@
     <option name="LAST_COMMIT_MESSAGE" value="+" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1612361967475">
+    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog" timestamp="1612363237822">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1612361967475" />
+    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1612363237822" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1612363049113">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1612363049113" />
   </component>
 </project>
